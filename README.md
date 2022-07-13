@@ -15,7 +15,7 @@ The following are stand-alone scripts and directly running them should work.
 
 For simulations with a Support Vector Machine (SVM) on synthetic data,
 
-1. **generate_SVM_data.m**
+1. Firstly, run **generate_SVM_data.m** to generate synthetic data for classification.
 
-2. **SVM_simulations.m**
+2. Then, run **SVM_simulations.m** to train an SVM classifier on the generated synthetic data and obtain plots in Figs. 2(a) and 2(b).
 
