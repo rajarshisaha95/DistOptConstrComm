@@ -13,5 +13,9 @@ The following are stand-alone scripts and directly running them should work.
 
 3. **wall_clock_time_comparsion.m**: Gives the result of Fig. 1(c). Wall clock times for computing near-democratic vs. democratic representations.
 
+For simulations with a Support Vector Machine (SVM) on synthetic data,
 
+1. **generate_SVM_data.m**
+
+2. **SVM_simulations.m**
 
