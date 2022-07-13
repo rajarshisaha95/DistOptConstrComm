@@ -23,5 +23,7 @@ For classification on MNIST dataset using SVMs,
 
 1. Run **SVM_simulations_MNIST.m** as a standalone script.
 
+Codebase to be updated soon. We would appreciate if you reach out and report any issues.
+
 
 
