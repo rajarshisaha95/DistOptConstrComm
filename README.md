@@ -1,9 +1,7 @@
 # Distributed Optimization Under a Communication Budget
 This repository contains implementations for the numerical evaluations in the paper:
 
-*Rajarshi Saha, Mert Pilanci, Andrea J. Goldsmith*, **"Efficient Randomized Subspace Embeddings for Distributed Optimization Under a Communication Budget"** (Currently under review)
-
-Please note that this repository is still a work in progress and there might be some issues related to platform dependencies. Python implementations for distributed optimization (for Linear Regression and CIFAR-10 results provided in the paper) are still needs refactoring and the code will be uploaded soon. Please reach out if you need it sooner.
+R. Saha, M. Pilanci and A. J. Goldsmith, "Efficient Randomized Subspace Embeddings for Distributed Optimization Under a Communication Budget," in IEEE Journal on Selected Areas in Information Theory, vol. 3, no. 2, pp. 183-196, June 2022, doi: 10.1109/JSAIT.2022.3198412. (https://ieeexplore.ieee.org/abstract/document/9857556)
 
 The following are stand-alone scripts and directly running them should work.
 
@@ -23,7 +21,7 @@ For classification on MNIST dataset using SVMs,
 
 1. Run **SVM_simulations_MNIST.m** as a standalone script.
 
-Codebase to be updated soon. We would appreciate if you reach out and report any issues.
+We would appreciate if you reach out and report any issues.
 
 
 
